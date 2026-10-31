@@ -126,16 +126,11 @@
     "items": [
       {
         "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
+        "label": "Linktree",
+        "url": "https://linktr.ee/quasarrrr_vfx",
         "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
       }
-    ]
+    ],
+    "card": false
   }
 }
